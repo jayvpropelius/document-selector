@@ -11,6 +11,10 @@ body {
   -webkit-touch-callout: none;
 }
 
+body {
+  background: #f9fafb;
+}
+
 input:-webkit-autofill,
 input:-webkit-autofill:hover,
 input:-webkit-autofill:focus,
